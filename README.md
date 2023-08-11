@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi. Welcome to my Github 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-keeble&count_private=false&show_icons=true&theme=github_light" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-keeble&langs_count=5&theme=github_light" />
+</a>
 <!--
 **tom-keeble/tom-keeble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
