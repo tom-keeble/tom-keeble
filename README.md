@@ -9,7 +9,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working as a Research Fellow in the Forest Hydrology Research group at the Univesity of Melbourne. While my interests and responsibilities are broad, the primary focus of my work is currently a collection of projects involving development of biophysical models for hydrology, geomorphology and wildfire risk in forested landscapes.
+- 🔭 I’m currently working as a Research Fellow in the Forest Hydrology Research group at the Univesity of Melbourne. While my interests and responsibilities are broad, my present focus is a collection of projects involving the development of biophysical models for hydrology, geomorphology and wildfire risk in forested landscapes.
 - 💬 If you're interested in my credentials and professional history they can be found [here](https://tom-keeble.github.io/CV/).
 <!--
 **tom-keeble/tom-keeble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
