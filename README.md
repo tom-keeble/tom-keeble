@@ -1,7 +1,6 @@
 
 <h1 align="center" >Hi. Welcome to my Github 👋 </h1>
 
----
 
 <p align="center">
   <a href="https://skillicons.dev">
