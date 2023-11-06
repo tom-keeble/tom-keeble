@@ -1,5 +1,11 @@
 ### Hi. Welcome to my Github 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,py,rust" />
+  </a>
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-keeble&count_private=false&show_icons=true&rank_icon=github&theme=tokyonight" />
 </a>
