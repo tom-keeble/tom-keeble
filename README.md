@@ -10,13 +10,13 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-keeble&count_private=false&show_icons=true&rank_icon=github&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tom-keeble&count_private=false&show_icons=true&rank_icon=github&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-keeble&layout=donut&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-keeble&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
 </a>
 
-<br><br>
+---
 
 - 🔭 I’m currently working as a Research Fellow in the Forest Hydrology Research Group at the Univesity of Melbourne. While my interests and responsibilities are broad, my current focus is a collection of projects involving the development of biophysical models for hydrology, geomorphology and wildfire risk in forested landscapes. At present many of these projects and their associated repositories are private, due to ownership and intellectual property considerations.
 - 💬 If you're interested in my credentials and professional history they can be found [here](https://tom-keeble.github.io/CV/).
