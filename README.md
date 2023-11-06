@@ -9,6 +9,8 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=tom-keeble&style=flat-square&color=blue" alt=""/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tom-keeble&count_private=false&show_icons=true&rank_icon=github&theme=tokyonight" />
 </a>
