@@ -4,16 +4,6 @@
   </a>
 </p>
 
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tom-keeble&style=flat-square&color=blue" alt=""></p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tom-keeble&count_private=false&show_icons=true&rank_icon=github&theme=tokyonight&card_width=280" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-keeble&layout=compact&langs_count=8&theme=tokyonight&card_width=280" />
-</a>
-
 ---
 
 - 🔭 I’m currently working as a Research Fellow in the Forest Hydrology Research Group at the Univesity of Melbourne. While my interests and responsibilities are broad, my present focus is a collection of projects involving the development of biophysical models for hydrology, geomorphology and wildfire risk in forested landscapes. At this time, many of these projects and their associated repositories are unfortunately private due to ownership and intellectual property considerations.
